@@ -11,3 +11,4 @@ payload:
   - DOMAIN,api.linkcube.dev
 #Qbittorrent
   - PROCESS-NAME,qbittorrent-nox
+  - DOMAIN-SUFFIX,asus.com
