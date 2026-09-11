@@ -68,6 +68,8 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,ntp.org.cn
   - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN,doh-b26dd727.doh.pub
+  - DOMAIN,105183-tl5kj0r9qhui1o8g.alidns.com
   - DOMAIN-SUFFIX,dot.pub
   - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-SUFFIX,dns.google
